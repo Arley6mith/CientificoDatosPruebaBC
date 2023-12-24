@@ -40,4 +40,20 @@ F1 Score Macro = 0.5668966987094688
 -------------------------------------------------------
 
 ```
+
+<center>
+
 ![datos](./images/confution_m.png)
+
+</center>
+
+Como se puede ver para la clase negativa, aunque no es un resultado del todo satisfactorio se proxima muy bien a los resultados de los autores y la linea base de los humanos que tenian F1 macro de 0.58 y F1 mentira 0.225 como se muestra en la imgen.
+
+<center>
+
+![image_papper](./images/image_papper.png)
+
+</center>
+
+Por ultimo se resalta que para mejorar el resultado podrian hacerse nuevas pruebas con mas epocas dado que desde las curvas de aprendizaje que se muestran en el notebook el modelo podria mejorar, sin emabrgo, esto llevaria mas costo computacional.
+
