@@ -1,10 +1,10 @@
 # CientificoDatosPruebaBC
-Este repositorio contiene los archivos necesarios presentados como evidencia de la prueba practica eel cual contiene :
+Este repositorio contiene los archivos necesarios presentados como evidencia de la prueba practica el cual contiene :
 
 * Computer vision: Notebook con funciones y procedimiento de extraccion de los valores de interes
 * Natural Lenguague Processing : Contiene los archivos de ejecucion del entrenamiento del modelo tipo transformer encargado de identificar si un texto es verdad o mentira en el contexto del juego "Diplomacy"
 
-Al interior de cada archivo se encuentra el RADME con el paso a paso y analisis necesarios para el desarrollo de la prueba.
+Al interior de cada archivo se encuentra el README con el paso a paso y analisis necesarios para el desarrollo de la prueba.
 
 
 **Notas**
